@@ -23,44 +23,6 @@ Warning: Prolonged exposure to my code may cause uncontrollable urges to refacto
     <table align="center">
     <tr>
       <td align="center" width="96">
-        <a href="https://react.dev/">
-          <img src="./img/react.svg" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <a href="https://redux.js.org/">
-          <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
-        </a>
-        <br>Redux
-      </td>
-      <td align="center" width="96">
-        <a href="https://nextjs.org/">
-          <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
-        </a>
-        <br>NextJS
-      </td>    
-      <td align="center" width="96">
-        <a href="https://angular.org/">
-          <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
-        </a>
-        <br>Angular
-      </td>
-      <td align="center" width="96">
-        <a href="https://pub.dev/">
-          <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
-        </a>
-        <br>Flutter
-      </td>
-      <td align="center" width="96">
-        <a href="https://reactnative.dev/">
-          <img src="./img/react.svg" width="48" height="48" alt="React Native" />
-        </a>
-        <br>React Native
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
         </a>
@@ -95,6 +57,44 @@ Warning: Prolonged exposure to my code may cause uncontrollable urges to refacto
           <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
         </a>
         <br>MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://react.dev/">
+          <img src="./img/react.svg" width="48" height="48" alt="React" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="https://redux.js.org/">
+          <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+        </a>
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <a href="https://nextjs.org/">
+          <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+        </a>
+        <br>NextJS
+      </td>    
+      <td align="center" width="96">
+        <a href="https://angular.org/">
+          <img src="./img/angular.svg" width="48" height="48" alt="Angular" />
+        </a>
+        <br>Angular
+      </td>
+      <td align="center" width="96">
+        <a href="https://pub.dev/">
+          <img src="./img/flutter.svg" width="48" height="48" alt="Flutter" />
+        </a>
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <a href="https://reactnative.dev/">
+          <img src="./img/react.svg" width="48" height="48" alt="React Native" />
+        </a>
+        <br>React Native
       </td>
     </tr>
     <tr>        
