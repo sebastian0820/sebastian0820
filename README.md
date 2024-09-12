@@ -19,8 +19,6 @@
 - 🔄 Git sorcerer: Version control so smooth, it makes time travel look amateur
 - 🛡️ Security sentinel: Crafting systems Fort Knox wishes it had
 
-Currently conjuring: A Guard Management System so secure, it could protect the crown jewels! 👑
-
 Warning: My code is known to cause spontaneous "aha!" moments and uncontrollable urges to refactor your entire life. Side effects may include skyrocketing productivity and an addiction to elegant solutions. Proceed with excitement! 🎉
   
 <h3 align="center">My Skillset</h3>
