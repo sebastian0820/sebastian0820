@@ -1,64 +1,26 @@
-# 👋 Hi, there, I'm @kevin0820-dev - your friendly neighborhood code wizard! 🧙‍♂️
+👋 Greetings, mortals! I'm Sebastian - the code sorcerer who turns caffeine into digital magic! ✨☕️
 
-- 🚀 Passionate about pushing the boundaries of AI and turning coffee into code
-- 🧠 Currently diving deep into the fascinating worlds of Generative AI and biomedical informatics
-- 🤝 Eager to collaborate on LobeHub and other mind-blowing projects
-- 📫 Drop me a line at kevin5877066@gmail.com - I promise I don't byte! 😉
-- 💡 Fun fact: I can debug code faster than I can decide what to have for lunch
+- 🚀 I don't just push boundaries, I obliterate them! AI and I are in a committed relationship.
+- 🧠 Currently mind-melding with Generative AI and biomedical informatics. It's not rocket science... it's way cooler!
+- 🤝 Ready to join forces on LobeHub and other projects so epic, they'll make your keyboard tremble!
+- 📫 Summon me at kevin5877066@gmail.com - I respond faster than you can say "Stack Overflow"!
+- 💡 Fun fact: I once debugged a program so efficiently, my computer blushed.
 
-When I'm not crafting elegant algorithms or taming unruly databases, you'll find me exploring the latest tech trends or attempting to teach my cat to code (spoiler: it's not going well). Let's build something amazing together! 🌟
+Warning: Prolonged exposure to my code may cause uncontrollable urges to refactor your life. Side effects may include increased productivity and spontaneous "aha!" moments. Proceed with excitement! 🎉
 
  <b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
 
-- 🌐 Seasoned full-stack developer proficient in <span style="color: #61DAFB;">MERN</span>, <span style="color: #00D8FF;">MEAN</span> stack, <span style="color: #E535AB;">GraphQL</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #4285F4;">Google Cloud</span>
-- 🔄 Expert in version control with <span style="color: #F05032;">Git</span>, ensuring efficient collaboration and code management
-- 📱 Skilled mobile app developer using <span style="color: #02569B;">Flutter</span> and <span style="color: #61DAFB;">React Native</span>, with seamless backend integration
-- 🛡️ Currently developing a Guard Management System using <span style="color: #02569B;">Flutter</span>, <span style="color: #FFCA28;">Firebase</span>, and <span style="color: #6DB33F;">Java Spring Boot</span>
-- 🤖 Actively integrating AI technologies (<span style="color: #10A37F;">GPT</span>, <span style="color: #3B5998;">NLP</span>) to enhance search capabilities and personalize user experiences
-- 🧠 Strong background in <span style="color: #FFA116;">algorithm design</span> and <span style="color: #FF6B6B;">optimization</span> for efficient problem-solving
-- 💡 Passionate about leveraging cutting-edge technologies to create innovative solutions
+- 🚀 Full-stack wizard: MERN, MEAN, GraphQL, Firebase, Google Cloud - I've mastered them all!
+- 🔄 Git guru: My version control skills are so sharp, they could slice through spaghetti code!
+- 📱 Mobile app maestro: Flutter and React Native are my playground. Backend integration? Piece of cake!
+- 🛡️ Currently crafting a Guard Management System that's so secure, it makes Fort Knox jealous
+- 🤖 AI whisperer: Teaching machines to think and personalizing user experiences like a boss
+- 🧠 Algorithm ninja: I optimize code faster than you can say "Big O notation"
+- 💡 Tech trailblazer: Always on the cutting edge, turning wild ideas into game-changing solutions
   
 <h3 align="center">My Skillset</h3>
 <div align="center">
     <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>Javascript
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/">
-          <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
-        </a>
-        <br>Typescript
-      </td>    
-      <td align="center" width="96">
-        <a href="https://www.python.org/">
-          <img src="./img/python.svg" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <a href="https://nodejs.org/en">
-          <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-        </a>
-        <br>NodeJS
-      </td>
-      <td align="center" width="96">
-        <a href="https://expressjs.com/">
-          <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
-        </a>
-        <br>ExpressJS
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mongodb.com/">
-          <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-      </td>
-    </tr>
     <tr>
       <td align="center" width="96">
         <a href="https://react.dev/">
@@ -95,6 +57,44 @@ When I'm not crafting elegant algorithms or taming unruly databases, you'll find
           <img src="./img/react.svg" width="48" height="48" alt="React Native" />
         </a>
         <br>React Native
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>Javascript
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/">
+          <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>Typescript
+      </td>    
+      <td align="center" width="96">
+        <a href="https://www.python.org/">
+          <img src="./img/python.svg" width="48" height="48" alt="Python" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://nodejs.org/en">
+          <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
+        </a>
+        <br>NodeJS
+      </td>
+      <td align="center" width="96">
+        <a href="https://expressjs.com/">
+          <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
+        </a>
+        <br>ExpressJS
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mongodb.com/">
+          <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
+        </a>
+        <br>MongoDB
       </td>
     </tr>
     <tr>        
