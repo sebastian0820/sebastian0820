@@ -3,7 +3,7 @@
 - 🚀 I don't just push boundaries, I obliterate them! AI and I are in a committed relationship.
 - 🧠 Currently mind-melding with Generative AI and biomedical informatics. It's not rocket science... it's way cooler!
 - 🤝 Ready to join forces on LobeHub and other projects so epic, they'll make your keyboard tremble!
-- 📫 Summon me at kevin5877066@gmail.com - I respond faster than you can say "Stack Overflow"!
+- 📫 Summon me at sebastianP0822@outlook.com - I respond faster than you can say "Stack Overflow"!
 - 💡 Fun fact: I once debugged a program so efficiently, my computer blushed.
 
 Warning: Prolonged exposure to my code may cause uncontrollable urges to refactor your life. Side effects may include increased productivity and spontaneous "aha!" moments. Proceed with excitement! 🎉
