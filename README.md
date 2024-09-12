@@ -1,5 +1,6 @@
-👋 Greetings, mortals! I'm Sebastian - the code sorcerer who turns caffeine into digital magic! ✨☕️
-
+# Sebastian's Profile
+👋 Welcome to my profile! I'm Sebastian - the code sorcerer who turns caffeine into digital magic! ✨☕️
+## About Me
 - 🚀 I don't just push boundaries, I obliterate them! AI and I are in a committed relationship.
 - 🧠 Currently mind-melding with Generative AI and biomedical informatics. It's not rocket science... it's way cooler!
 - 🤝 Ready to join forces on LobeHub and other projects so epic, they'll make your keyboard tremble!
@@ -8,7 +9,9 @@
 
 Warning: Prolonged exposure to my code may cause uncontrollable urges to refactor your life. Side effects may include increased productivity and spontaneous "aha!" moments. Proceed with excitement! 🎉
 
- <b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
+## Skills
+
+ #<b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
 
 - 🚀 Full-stack wizard: MERN, MEAN, GraphQL, Firebase, Google Cloud - I've mastered them all!
 - 🔄 Git guru: My version control skills are so sharp, they could slice through spaghetti code!
