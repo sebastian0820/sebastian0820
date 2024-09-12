@@ -141,7 +141,8 @@ Warning: Prolonged exposure to my code may cause uncontrollable urges to refacto
   </table>
 </div>
 
-<!---
-kevin0820-dev/kevin0820-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Contributing
+
+I’m open to contributions! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. 
+
+Thanks for visiting my GitHub profile!
