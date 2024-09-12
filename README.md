@@ -7,9 +7,30 @@
 - 📫 Summon me at sebastianP0822@outlook.com - I respond faster than you can say "Stack Overflow"!
 - 💡 Fun fact: I once debugged a program so efficiently, my computer blushed.
 
+## 🛠️ My Tech Arsenal
+
+### Front-End Mastery
+- **Languages:** JavaScript (ES6+ ninja), TypeScript guru, HTML5/CSS3 virtuoso
+- **Frameworks:** React (Next.js/Gatsby) maestro, Vue.js (2/3) expert, Redux/Vuex state management wizard
+- **UI Frameworks:** Tailwind CSS artist, Material UI maven, Bootstrap pro, Shadcn/Vuetify virtuoso
+- **Cloud:** AWS/Firebase deployment sorcerer
+- **Design:** UI/UX visionary, responsive design champion
+- **Tools:** Webpack wizard, npm/yarn package conjurer, Axios/AJAX data-fetching ninja
+
+### Back-End Sorcery
+- **Languages:** Node.js architect, PHP craftsman, Python charmer
+- **Databases:** MongoDB magician, SQL sage, Firestore/Firebase alchemist
+- **Cloud Platforms:** AWS/Azure/GCP deployment demigod
+
+### AI Wizardry
+- **GenAI:** LLM (GPT, DALL-E, LLAMA3) pre-training and fine-tuning virtuoso
+- **Frameworks:** LangChain/LobeHub innovation engineer
+- **Libraries:** Transformers/Hugging Face/OpenAI API integration maestro
+- **Tools:** Auto-GPT pioneer, OpenAI API maximizer
+
 Warning: Prolonged exposure to my code may cause uncontrollable urges to refactor your life. Side effects may include increased productivity and spontaneous "aha!" moments. Proceed with excitement! 🎉
 
-## Skills
+## Skills & Tools
 
  #<b>Experienced Full-Stack Developer with expertise in Web, Mobile, AI, and Algorithms</b> 👋
 
