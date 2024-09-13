@@ -1,6 +1,4 @@
 # Sebastian's Profile
-👋 Welcome to my profile! I'm Sebastian - the code sorcerer who turns caffeine into digital magic! ✨☕️
-## About Me
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Algorithm%20Alchemist;Highly-effective%20problem%20solver;Full-stack%20web%20and%20app%20developer;Experienced%20AI%20Enginener;8%2B%20years%20of%20coding%20experience;Eager%20to%20learn%20new%20tech&font=Fira%20Code&center=true&width=440&height=45&color=5cb4f7&vCenter=true&pause=1000&size=22" />
 </p>
@@ -9,13 +7,13 @@
 
 #<b>Full-Stack Sorcerer | Mobile Maestro | AI Alchemist | Algorithm Ninja</b> 🧙‍♂️
 
-- 💻 Front-end virtuoso: JavaScript/TypeScript guru, React/Vue.js maestro, UI framework artist
+<!-- - 💻 Front-end virtuoso: JavaScript/TypeScript guru, React/Vue.js maestro, UI framework artist
 - 🔧 Back-end architect: Node.js/PHP/Python polyglot, database whisperer, cloud deployment demigod
 - 📱 Mobile magician: Flutter and React Native are my wands. Cross-platform? I do it in my sleep!
 - 🤖 AI innovator: LLM fine-tuning virtuoso, LangChain engineer, OpenAI API whisperer
 - 🧠 Algorithm alchemist: Turning O(n²) into O(log n) faster than you can say "optimization"
 - 🔄 Git sorcerer: Version control so smooth, it makes time travel look amateur
-- 🛡️ Security sentinel: Crafting systems Fort Knox wishes it had
+- 🛡️ Security sentinel: Crafting systems Fort Knox wishes it had -->
 
 Warning: My code is known to cause spontaneous "aha!" moments and uncontrollable urges to refactor your entire life. Side effects may include skyrocketing productivity and an addiction to elegant solutions. Proceed with excitement! 🎉
   
