@@ -1,11 +1,9 @@
 # Sebastian's Profile
 👋 Welcome to my profile! I'm Sebastian - the code sorcerer who turns caffeine into digital magic! ✨☕️
 ## About Me
-- 🚀 I don't just push boundaries, I obliterate them! AI and I are in a committed relationship.
-- 🧠 Currently mind-melding with Generative AI and biomedical informatics. It's not rocket science... it's way cooler!
-- 🤝 Ready to join forces on LobeHub and other projects so epic, they'll make your keyboard tremble!
-- 📫 Summon me at sebastianP0822@outlook.com - I respond faster than you can say "Stack Overflow"!
-- 💡 Fun fact: I once debugged a program so efficiently, my computer blushed.
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Algorithm%20Alchemist;Highly-effective%20problem%20solver;Full-stack%20web%20and%20app%20developer;Experienced%20AI%20Enginener;8%2B%20years%20of%20coding%20experience;Eager%20to%20learn%20new%20tech&font=Fira%20Code&center=true&width=440&height=45&color=5cb4f7&vCenter=true&pause=1000&size=22" />
+</p>
 
 ## 🚀 Tech Wizardry & Superpowers
 
@@ -21,6 +19,12 @@
 
 Warning: My code is known to cause spontaneous "aha!" moments and uncontrollable urges to refactor your entire life. Side effects may include skyrocketing productivity and an addiction to elegant solutions. Proceed with excitement! 🎉
   
+## 🤝 Contributing
+
+I’m open to contributions! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. 
+
+Thanks for visiting my GitHub profile!
+
 <h3 align="center">My Skillset</h3>
 <div align="center">
     <table align="center">
@@ -139,10 +143,11 @@ Warning: My code is known to cause spontaneous "aha!" moments and uncontrollable
       </td>
     </tr>
   </table>
+   <p align="center">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sebastian0820&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian0820&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=sebastian0820&theme=darcula&hide_border=true&background=FFFFFF00">
+    <br/>
+    <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sebastian0820&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </p>
 </div>
-
-## 🤝 Contributing
-
-I’m open to contributions! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. 
-
-Thanks for visiting my GitHub profile!
