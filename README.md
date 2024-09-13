@@ -144,8 +144,8 @@ Thanks for visiting my GitHub profile!
     </tr>
   </table>
    <p align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sebastian0820&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian0820&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+    <!-- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sebastian0820&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian0820&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"> -->
     <img src ="https://github-readme-streak-stats.herokuapp.com?user=sebastian0820&theme=darcula&hide_border=true&background=FFFFFF00">
     <br/>
     <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sebastian0820&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
