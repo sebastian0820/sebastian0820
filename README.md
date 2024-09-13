@@ -1,6 +1,6 @@
 # Sebastian's Profile
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=6%2B%20years%20of%20coding%20experience;Eager%20to%20learn%20new%20techAlgorithm%20Alchemist;Highly-effective%20problem%20solver;Full-stack%20web%20and%20app%20developer;Experienced%20AI%20Enginener;&font=Fira%20Code&center=true&width=440&height=45&color=5cb4f7&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=6%2B%20years%20of%20coding%20experience;Eager%20to%20learn%20new%20tech;Algorithm%20Alchemist;Highly-effective%20problem%20solver;Full-stack%20web%20and%20app%20developer;Experienced%20AI%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=5cb4f7&vCenter=true&pause=1000&size=22" />
 </p>
 
 ## 🚀 Tech Wizardry & Superpowers
