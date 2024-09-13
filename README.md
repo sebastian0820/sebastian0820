@@ -5,7 +5,7 @@
 
 ## 🚀 Tech Wizardry & Superpowers
 
-#<b>Full-Stack Sorcerer | Mobile Maestro | AI Alchemist | Algorithm Ninja</b> 🧙‍♂️
+###<b>Full-Stack Sorcerer | Mobile Maestro | AI Alchemist | Algorithm Ninja</b> 🧙‍♂️
 
 <!-- - 💻 Front-end virtuoso: JavaScript/TypeScript guru, React/Vue.js maestro, UI framework artist
 - 🔧 Back-end architect: Node.js/PHP/Python polyglot, database whisperer, cloud deployment demigod
@@ -15,7 +15,7 @@
 - 🔄 Git sorcerer: Version control so smooth, it makes time travel look amateur
 - 🛡️ Security sentinel: Crafting systems Fort Knox wishes it had -->
 
-Warning: My code is known to cause spontaneous "aha!" moments and uncontrollable urges to refactor your entire life. Side effects may include skyrocketing productivity and an addiction to elegant solutions. Proceed with excitement! 🎉
+###Warning: My code is known to cause spontaneous "aha!" moments and uncontrollable urges to refactor your entire life. Side effects may include skyrocketing productivity and an addiction to elegant solutions. Proceed with excitement! 🎉
   
 ## 🤝 Contributing
 
